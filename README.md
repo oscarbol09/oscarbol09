@@ -5,10 +5,10 @@ Desarrollador de software especializado en aplicaciones web modernas
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/oscar-dario-madera-bolaño-13279215a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@example.com">
+  <a href="mailto:dario.oviedo2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -80,7 +80,7 @@ También desarrollo herramientas de IA aplicada, integrando modelos de lenguaje 
 
 ### 📫 Contacto
 
-- 📧 tu-correo@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 📧 dario.oviedo2022@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/oscar-dario-madera-bolaño-13279215a)
 
 <p align="center"><em>Disponible para proyectos freelance de desarrollo web</em></p>
