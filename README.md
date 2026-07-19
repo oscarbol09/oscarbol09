@@ -17,7 +17,7 @@ Desarrollador de software especializado en aplicaciones web modernas
 
 ### 🧑‍💻 Sobre mí
 
-Soy desarrollador full-stack, enfocado en construir aplicaciones web robustas y escalables para clientes y proyectos propios. Trabajo principalmente con el ecosistema **JavaScript/TypeScript** en frontend y **Python** en backend, con experiencia entregando soluciones completas — desde el diseño de la arquitectura hasta el despliegue en producción.
+Licenciado en Informática por la Universidad de Córdoba (Colombia). Soy desarrollador full-stack, enfocado en construir aplicaciones web robustas y escalables para clientes y proyectos propios. Trabajo principalmente con el ecosistema **JavaScript/TypeScript** en frontend y **Python** en backend, con experiencia entregando soluciones completas — desde el diseño de la arquitectura hasta el despliegue en producción.
 
 También desarrollo herramientas de IA aplicada, integrando modelos de lenguaje en flujos de trabajo reales (RAG, chatbots educativos, automatización de documentos).
 
@@ -45,6 +45,8 @@ También desarrollo herramientas de IA aplicada, integrando modelos de lenguaje 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 **Base de datos e infraestructura**
 
@@ -70,7 +72,8 @@ También desarrollo herramientas de IA aplicada, integrando modelos de lenguaje 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarbol09&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarbol09&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarbol09&layout=compact&theme=default&hide_border=true" alt="Lenguajes más usados" width="38%" />
 </p>
 
 ---
