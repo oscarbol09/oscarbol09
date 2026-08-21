@@ -1,11 +1,11 @@
-<h1 align="center">Hola, soy Oscar Madera 👋</h1>
+<h1 align="center">Hi, I am Oscar Madera ??</h1>
 
 <p align="center">
-Desarrollador de software especializado en aplicaciones web modernas
+Software developer specialized in modern web applications
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oscar-dario-madera-bolaño-13279215a" target="_blank">
+  <a href="https://www.linkedin.com/in/oscar-dario-madera-bolano-13279215a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dario.oviedo2022@gmail.com">
@@ -15,23 +15,23 @@ Desarrollador de software especializado en aplicaciones web modernas
 
 ---
 
-### 🧑‍💻 Sobre mí
+### ?? About Me
 
-Licenciado en Informática por la Universidad de Córdoba (Colombia). Soy desarrollador full-stack, enfocado en construir aplicaciones web robustas y escalables para clientes y proyectos propios. Trabajo principalmente con el ecosistema **JavaScript/TypeScript** en frontend y **Python** en backend, con experiencia entregando soluciones completas — desde el diseño de la arquitectura hasta el despliegue en producción.
+Computer Science graduate from Universidad de C�rdoba (Colombia). Full-stack developer focused on building robust, scalable web applications for clients and personal projects. I work primarily with the **JavaScript/TypeScript** ecosystem on the frontend and **Python** on the backend, with experience delivering complete solutions � from architecture design to production deployment.
 
-También desarrollo herramientas de IA aplicada, integrando modelos de lenguaje en flujos de trabajo reales (RAG, chatbots educativos, automatización de documentos).
-
----
-
-### 🚀 En qué trabajo actualmente
-
-- **Desarrollo freelance:** sitios y aplicaciones web a medida para clientes, desde landing pages hasta plataformas con backend propio
-- **EduRAG-Platform:** plataforma educativa basada en RAG que permite a docentes crear chatbots entrenados con sus propios documentos
-- **Automatización con IA:** integración de herramientas como Claude Code para acelerar desarrollo, procesamiento de documentos y flujos de trabajo
+I also build applied AI tools, integrating language models into real workflows (RAG, educational chatbots, document automation).
 
 ---
 
-### 🛠️ Stack técnico
+### ?? What I'm Working On
+
+- **Freelance Development:** custom websites and web applications for clients, from landing pages to platforms with custom backends
+- **EduRAG-Platform:** RAG-based educational platform allowing teachers to create chatbots trained on their own documents
+- **AI Automation:** integrating tools like Claude Code to accelerate development, document processing, and workflows
+
+---
+
+### ??? Tech Stack
 
 **Frontend**
 
@@ -48,20 +48,20 @@ También desarrollo herramientas de IA aplicada, integrando modelos de lenguaje 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-**Base de datos e infraestructura**
+**Database & Infrastructure**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-**IA / GenAI**
+**AI / GenAI**
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
-**Herramientas**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -69,18 +69,22 @@ También desarrollo herramientas de IA aplicada, integrando modelos de lenguaje 
 
 ---
 
-### 📊 Estadísticas de GitHub
+### ?? GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarbol09&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarbol09&layout=compact&theme=default&hide_border=true" alt="Lenguajes más usados" width="38%" />
+  <img src="stats-general.svg" alt="GitHub Stats" width="48%" />
+  <img src="stats-languages.svg" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="stats-streak.svg" alt="Contribution Streak" width="48%" />
+  <img src="stats-trophies.svg" alt="Trophies" width="48%" />
 </p>
 
 ---
 
-### 📫 Contacto
+### ?? Contact
 
-- 📧 dario.oviedo2022@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/oscar-dario-madera-bolaño-13279215a)
+- ?? dario.oviedo2022@gmail.com
+- ?? [LinkedIn](https://www.linkedin.com/in/oscar-dario-madera-bolano-13279215a)
 
-<p align="center"><em>Disponible para proyectos freelance de desarrollo web</em></p>
+<p align="center"><em>Available for freelance web development projects</em></p>
