@@ -1,9 +1,0 @@
-{
-  "name": "profile-stats-generator",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "github-readme-stats": "^1.0.0",
-    "axios": "^1.6.0"
-  }
-}

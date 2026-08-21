@@ -15,19 +15,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-          cache: "npm"
-
-      - name: Install github-readme-stats
-        run: npm ci
-        working-directory: .github/scripts
-
       - name: Generate stats SVGs
-        run: node generate-stats.js
-        working-directory: .github/scripts
+        run: node .github/scripts/generate-stats.js
         env:
           GITHUB_USERNAME: oscarbol09
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
