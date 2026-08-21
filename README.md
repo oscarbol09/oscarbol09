@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Oscar Madera ??</h1>
+﻿<h1 align="center">Hi, I am Oscar Madera 👋</h1>
 
 <p align="center">
 Software developer specialized in modern web applications
@@ -15,15 +15,15 @@ Software developer specialized in modern web applications
 
 ---
 
-### ?? About Me
+### 🙋 About Me
 
-Computer Science graduate from Universidad de C�rdoba (Colombia). Full-stack developer focused on building robust, scalable web applications for clients and personal projects. I work primarily with the **JavaScript/TypeScript** ecosystem on the frontend and **Python** on the backend, with experience delivering complete solutions � from architecture design to production deployment.
+Computer Science graduate from Universidad de Córdoba (Colombia). Full-stack developer focused on building robust, scalable web applications for clients and personal projects. I work primarily with the **JavaScript/TypeScript** ecosystem on the frontend and **Python** on the backend, with experience delivering complete solutions — from architecture design to production deployment.
 
 I also build applied AI tools, integrating language models into real workflows (RAG, educational chatbots, document automation).
 
 ---
 
-### ?? What I'm Working On
+### 🔨 What I'm Working On
 
 - **Freelance Development:** custom websites and web applications for clients, from landing pages to platforms with custom backends
 - **EduRAG-Platform:** RAG-based educational platform allowing teachers to create chatbots trained on their own documents
@@ -31,7 +31,7 @@ I also build applied AI tools, integrating language models into real workflows (
 
 ---
 
-### ??? Tech Stack
+### 🛠️ Tech Stack
 
 **Frontend**
 
@@ -69,7 +69,7 @@ I also build applied AI tools, integrating language models into real workflows (
 
 ---
 
-### ?? GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="stats-general.svg" alt="GitHub Stats" width="48%" />
@@ -82,9 +82,9 @@ I also build applied AI tools, integrating language models into real workflows (
 
 ---
 
-### ?? Contact
+### 📬 Contact
 
-- ?? dario.oviedo2022@gmail.com
-- ?? [LinkedIn](https://www.linkedin.com/in/oscar-dario-madera-bolano-13279215a)
+- ✉️ dario.oviedo2022@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/oscar-dario-madera-bolano-13279215a)
 
 <p align="center"><em>Available for freelance web development projects</em></p>
