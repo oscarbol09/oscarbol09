@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi, I am Oscar Madera 👋</h1>
+<h1 align="center">Hi, I am Oscar Madera 👋</h1>
 
 <p align="center">
 Software developer specialized in modern web applications
@@ -10,6 +10,9 @@ Software developer specialized in modern web applications
   </a>
   <a href="mailto:dario.oviedo2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/oscarmb09" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </p>
 
