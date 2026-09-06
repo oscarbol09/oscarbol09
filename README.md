@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Oscar Madera 👋</h1>
 
 <p align="center">
-Software developer specialized in modern web applications
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%C2%B7+Full-Stack;JavaScript%2FTypeScript+%C2%B7+Python+%C2%B7+Rust;Applied+AI+%26+RAG+Platforms;Open+Source+Contributor+%C2%B7+Linux+%26+ERP&font=Fira+Code&center=true&width=560&height=40&color=58A6FF&vCenter=true&pause=1200&size=18" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,6 +17,10 @@ Software developer specialized in modern web applications
   <a href="https://github.com/sponsors/oscarbol09" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=oscarbol09&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Profile Trophies" />
 </p>
 
 ---
@@ -99,9 +103,9 @@ I also build applied AI tools, integrating language models into real workflows (
   <img src="stats-general.svg?v=3" alt="GitHub Stats" width="48%" />
   <img src="stats-languages.svg?v=3" alt="Top Languages" width="48%" />
 </p>
+
 <p align="center">
-  <img src="stats-streak.svg?v=3" alt="Contribution Streak" width="48%" />
-  <img src="stats-trophies.svg?v=3" alt="Trophies" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=oscarbol09&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution Streak" width="97%" />
 </p>
 
 ---
