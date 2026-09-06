@@ -96,7 +96,7 @@ async function fetchContributionStats() {
   try {
     const res = await ghGraphQL(query, { user: USERNAME });
     if (!res || !res.data || !res.data.user) {
-      return { totalContributions: 480, currentStreak: 1, longestStreak: 15 };
+      return { totalContributions: 481, currentStreak: 1, longestStreak: 15 };
     }
 
     const cal = res.data.user.contributionsCollection.contributionCalendar;
@@ -136,7 +136,7 @@ async function fetchContributionStats() {
 
     return { totalContributions, currentStreak, longestStreak };
   } catch (err) {
-    return { totalContributions: 480, currentStreak: 1, longestStreak: 15 };
+    return { totalContributions: 481, currentStreak: 1, longestStreak: 15 };
   }
 }
 
@@ -295,10 +295,10 @@ function generateStreak(contributionStats) {
   svg += `<rect width="100%" height="100%" fill="${cardBg}" rx="6" ry="6"/>`;
   svg += `<rect x="0.5" y="0.5" width="${width-1}" height="${height-1}" fill="none" stroke="${borderColor}" stroke-width="1" rx="5.5" ry="5.5"/>`;
   
-  // Header with Flame Icon
+  // Header with Flame Icon - using &amp; for valid XML
   svg += `<g transform="translate(20, 16)">`;
   svg += `<svg width="18" height="18" viewBox="0 0 24 24">${ICONS.fire}</svg>`;
-  svg += `<text x="26" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="${titleColor}">Contribution Activity & Streak</text>`;
+  svg += `<text x="26" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="${titleColor}">Contribution Activity &amp; Streak</text>`;
   svg += `</g>`;
 
   // 3 Metric columns
@@ -341,10 +341,10 @@ function generateTrophies(user, repos, contributionStats) {
   svg += `<rect width="100%" height="100%" fill="${cardBg}" rx="6" ry="6"/>`;
   svg += `<rect x="0.5" y="0.5" width="${width-1}" height="${height-1}" fill="none" stroke="${borderColor}" stroke-width="1" rx="5.5" ry="5.5"/>`;
   
-  // Header with Trophy Icon
+  // Header with Trophy Icon - using &amp; for valid XML
   svg += `<g transform="translate(20, 16)">`;
   svg += `<svg width="18" height="18" viewBox="0 0 24 24">${ICONS.trophy}</svg>`;
-  svg += `<text x="26" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="${titleColor}">Achievements & Highlights</text>`;
+  svg += `<text x="26" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="${titleColor}">Achievements &amp; Highlights</text>`;
   svg += `</g>`;
 
   achievements.forEach((ach, i) => {

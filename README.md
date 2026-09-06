@@ -96,12 +96,12 @@ I also build applied AI tools, integrating language models into real workflows (
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="stats-general.svg?v=2" alt="GitHub Stats" width="48%" />
-  <img src="stats-languages.svg?v=2" alt="Top Languages" width="48%" />
+  <img src="stats-general.svg?v=3" alt="GitHub Stats" width="48%" />
+  <img src="stats-languages.svg?v=3" alt="Top Languages" width="48%" />
 </p>
 <p align="center">
-  <img src="stats-streak.svg?v=2" alt="Contribution Streak" width="48%" />
-  <img src="stats-trophies.svg?v=2" alt="Trophies" width="48%" />
+  <img src="stats-streak.svg?v=3" alt="Contribution Streak" width="48%" />
+  <img src="stats-trophies.svg?v=3" alt="Trophies" width="48%" />
 </p>
 
 ---
