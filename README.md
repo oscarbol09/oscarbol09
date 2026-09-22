@@ -34,7 +34,7 @@
 
 ### 👨‍💻 About Me
 
-**Licenciado en Informática y Medios Audiovisuales** (Universidad de Córdoba) & **Técnico en Sistemas** (SENA). Full-stack and systems engineer specialized in building enterprise backend services, developer infrastructure, cloud architectures (AWS / Azure), and applied AI systems.
+**Full-Stack & Systems Software Engineer** · **Licenciado en Informática y Medios Audiovisuales** (Universidad de Córdoba). Specialized in building enterprise backend services, developer infrastructure, cloud architectures (AWS / Azure), and high-performance applied AI systems.
 
 * 🛠️ **Full-Stack & Systems:** Core engineering in **Java (Spring Boot / Spring MVC / Webflux, JPA/Hibernate)**, **Angular (TypeScript, Bootstrap)**, **Go 1.22+**, **Python**, and **Ruby on Rails**.
 * ☁️ **Cloud, Databases & Architecture:** **AWS** (S3, SQS, EC2), **Azure** (App Services, Blob Storage, Cosmos DB), **SQL Server (Transact-SQL)**, **PostgreSQL**, REST, SOAP, WebSockets, **SOLID principles**, and Design Patterns.
