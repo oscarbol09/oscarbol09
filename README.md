@@ -1,10 +1,13 @@
 <h1 align="center">Hi, I'm Oscar Madera 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%C2%B7+Systems+%26+Full-Stack;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust;Applied+AI+%C2%B7+RAG+Architectures+%C2%B7+Local+LLMs;Open+Source+Contributor+%C2%B7+Linux+%26+DevTools&font=Fira+Code&center=true&width=580&height=40&color=58A6FF&vCenter=true&pause=1200&size=18" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%C2%B7+Systems+%26+Full-Stack;Go+%C2%B7+Python+%C2%B7+Ruby+%C2%B7+TypeScript;Applied+AI+%C2%B7+RAG+Architectures+%C2%B7+Local+LLMs;Open+Source+Contributor+%C2%B7+Linux+%26+DevTools&font=Fira+Code&center=true&width=580&height=40&color=58A6FF&vCenter=true&pause=1200&size=18" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="https://oscarbol09.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/oscar-dario-madera-bolano-13279215a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -33,8 +36,9 @@
 
 **Software Engineer & Computer Science Graduate** from **Universidad de Córdoba (Colombia)**. Full-stack and systems engineer specialized in building developer infrastructure, applied AI architectures, and high-performance applications.
 
-* 🛠️ Core engineering with **Go**, **Python**, and **TypeScript/JavaScript** across backend services, CLI/TUI tools, desktop software, and distributed systems.
+* 🛠️ Core engineering with **Go**, **Python**, **Ruby/Rails**, and **TypeScript/JavaScript** across backend services, CLI/TUI tools, desktop software, and distributed systems.
 * 🤖 Architecting **Applied AI & RAG pipelines**: local neural TTS (Piper/Kokoro), multi-agent LLM systems, academic research engines, and semantic memory systems.
+* 🌐 **Interactive Portfolio:** [oscarbol09.github.io](https://oscarbol09.github.io/)
 * 🌍 Active open-source contributor in modern Linux environments, enterprise ERP ecosystems, and developer tooling.
 
 ---
@@ -66,6 +70,7 @@
   <strong>Languages & Systems</strong><br/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -83,6 +88,7 @@
 
 <p align="left">
   <strong>Backend, Databases & Infra</strong><br/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
