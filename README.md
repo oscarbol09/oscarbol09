@@ -50,6 +50,7 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[Branchbase](https://github.com/oscarbol09/branchbase)** | `Go 1.22+` `Cobra` `PostgreSQL` `MySQL` `SQLite` `Docker` | Zero-config, Git-native local database branching CLI & TCP proxy. Automatically mirrors database states on Git branch checkout without schema drift. |
+| **[MacroSentinel](https://github.com/oscarbol09/MacroSentinel)** | `Python 3.11+` `FRED` `BLS` `LiteLLM` `Resend` `Telegram` | Autonomous macroeconomic intelligence radar with Scatter-Gather ingestion, Circuit Breakers, Financial Chain-of-Thought, and dialectical LLM debate. |
 | **[EduRag-Platform](https://github.com/oscarbol09/EduRag)** | `Next.js 16` `TypeScript` `FastAPI` `Azure Cosmos DB` `Blob Storage` `Gemini` | Cloud multi-tenant educational SaaS platform with JWT/RBAC security, real-time SSE STEM streaming, and automated Quality Gates. |
 | **[AudioBard](https://github.com/oscarbol09/audiobard)** | `Python` `Tauri v2` `Vue 3` `FastAPI` `SQLite` `FFmpeg` `Pytest (230+ Tests)` | Multi-voice AI audiobook generator from EPUB/TXT with automatic character voice assignment, local/cloud neural synthesis, and comprehensive test suite. |
 | **[ThesisForge](https://github.com/oscarbol09/thesisforge)** | `Python` `RAG` `FastAPI` `Gemini` `CrossRef API` `APA 7` | Academic research assistant with indexed literature retrieval, DOI cryptographic validation, and publication-ready formatting. |
