@@ -50,12 +50,13 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[Branchbase](https://github.com/oscarbol09/branchbase)** | `Go 1.22+` `Cobra` `PostgreSQL` `MySQL` `SQLite` `Docker` | Zero-config, Git-native local database branching CLI & TCP proxy. Automatically mirrors database states on Git branch checkout without schema drift. |
+| **[JVM-MCP](https://github.com/oscarbol09/jvm-mcp)** | `Java 21` `GraalVM Native` `MCP Protocol` `JDK Attach API` `HikariCP` | Native Model Context Protocol (MCP) server for live JVM runtime diagnostics (Thread Dumps, Deadlocks, HikariCP Connection Leaks) with zero target overhead (< 15ms startup). |
+| **[A2A-Hub](https://github.com/oscarbol09/a2a-hub)** | `Java 21 (Loom)` `Spring Boot 3.4` `LangChain4j` `pgvector (HNSW)` `WebSockets` | Decentralized Agent2Agent (A2A v1.0) registry and messaging broker. Semantic agent discovery with pgvector HNSW and high-concurrency Loom Virtual Threads. |
 | **[MacroSentinel](https://github.com/oscarbol09/MacroSentinel)** | `Python 3.11+` `FRED` `BLS` `LiteLLM` `Resend` `Telegram` | Autonomous macroeconomic intelligence radar with Scatter-Gather ingestion, Circuit Breakers, Financial Chain-of-Thought, and dialectical LLM debate. |
 | **[EduRag-Platform](https://github.com/oscarbol09/EduRag)** | `Next.js 16` `TypeScript` `FastAPI` `Azure Cosmos DB` `Blob Storage` `Gemini` | Cloud multi-tenant educational SaaS platform with JWT/RBAC security, real-time SSE STEM streaming, and automated Quality Gates. |
 | **[AudioBard](https://github.com/oscarbol09/audiobard)** | `Python` `Tauri v2` `Vue 3` `FastAPI` `SQLite` `FFmpeg` `Pytest (230+ Tests)` | Multi-voice AI audiobook generator from EPUB/TXT with automatic character voice assignment, local/cloud neural synthesis, and comprehensive test suite. |
 | **[ThesisForge](https://github.com/oscarbol09/thesisforge)** | `Python` `RAG` `FastAPI` `Gemini` `CrossRef API` `APA 7` | Academic research assistant with indexed literature retrieval, DOI cryptographic validation, and publication-ready formatting. |
 | **[Darius-AI](https://github.com/oscarbol09/Darius-AI)** | `Python` `Obsidian API` `Gemini` `Speech` | Native Windows voice-controlled virtual assistant with semantic Obsidian second-brain memory. |
-| **[pdf2bard](https://github.com/oscarbol09/pdf2bard)** | `Python` `PyMuPDF` `NLP` | Layout-aware PDF to clean EPUB converter tailored for neural TTS readers. |
 
 ---
 
@@ -71,7 +72,8 @@
 
 <p align="left">
   <strong>Languages & Systems</strong><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraalVM-F89820?style=flat-square&logo=graalvm&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
@@ -95,7 +97,7 @@
 
 <p align="left">
   <strong>Backend, Enterprise & Cloud</strong><br/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Webflux-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" />
@@ -109,7 +111,7 @@
 <p align="left">
   <strong>Databases & Persistence</strong><br/>
   <img src="https://img.shields.io/badge/SQL_Server_(T--SQL)-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
@@ -118,7 +120,7 @@
 
 <p align="left">
   <strong>Testing, DevOps & Standards</strong><br/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest_(230+_tests)-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -128,6 +130,8 @@
 
 <p align="left">
   <strong>AI, Audio & RAG</strong><br/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-00F0FF?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
