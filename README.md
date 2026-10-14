@@ -36,12 +36,12 @@
 
 **Full-Stack & Systems Software Engineer** · **Licenciado en Informática y Medios Audiovisuales** (Universidad de Córdoba). Specialized in building enterprise backend services, developer infrastructure, cloud architectures (AWS / Azure), and high-performance applied AI systems.
 
-* 🛠️ **Full-Stack & Systems:** Core engineering in **Java (Spring Boot / Spring MVC / Webflux, JPA/Hibernate)**, **Angular (TypeScript, Bootstrap)**, **Go 1.22+**, **Python**, and **Ruby on Rails**.
-* ☁️ **Cloud, Databases & Architecture:** **AWS** (S3, SQS, EC2), **Azure** (App Services, Blob Storage, Cosmos DB), **SQL Server (Transact-SQL)**, **PostgreSQL**, REST, SOAP, WebSockets, **SOLID principles**, and Design Patterns.
-* 🧪 **Testing & Quality Gates:** Exhaustive testing suites with **JUnit, Jest, Pytest (230+ automated tests)** and automated CI/CD pipelines (GitHub Actions, Jenkins).
-* 🤖 **Applied AI & RAG:** Multi-tenant RAG systems, local neural TTS (Piper/Kokoro), AI audiobooks, and DOI-verified academic research engines.
+* 🛠️ **Full-Stack & Systems:** Core engineering in **Java (Spring Boot 3.4 / Spring MVC / Webflux, JPA/Hibernate)**, **Angular (TypeScript, Bootstrap)**, **Go 1.22+**, **Python**, and **Ruby on Rails**.
+* ☁️ **Cloud, Databases & Architecture:** **AWS** (S3, SQS, EC2), **Azure** (App Services, Blob Storage, Cosmos DB), **SQL Server (Transact-SQL)**, **PostgreSQL (pgvector HNSW)**, REST, SOAP, WebSockets, **SOLID principles**, and Design Patterns.
+* 🧪 **Testing & Quality Gates:** Exhaustive testing suites with **JUnit 5, Vitest, Jest, Pytest (230+ automated tests)** and automated CI/CD pipelines (GitHub Actions, Jenkins).
+* 🤖 **Applied AI & Protocols:** Multi-tenant RAG systems, Model Context Protocol (MCP in GraalVM), Agent-to-Agent (A2A), local neural TTS (Piper/Kokoro), and DOI-verified academic research engines.
 * 🌐 **Interactive Portfolio:** [oscarbol09.github.io](https://oscarbol09.github.io/)
-* 🌍 **Open Source:** Active contributor in **OCA (Odoo Community Association)** (`OCA/l10n-spain`) and Linux desktop tooling.
+* 🌍 **Open Source:** Active contributor in **OCA (Odoo Community Association)** (`OCA/server-tools`, `OCA/l10n-spain`), **a2aproject/a2a-java**, and Linux desktop tooling (`omacom/omarchy`).
 
 ---
 
@@ -62,8 +62,10 @@
 
 ### 🌐 Open Source Contributions
 
-* **[omacom/omarchy](https://github.com/omacom/omarchy):** Modern Linux desktop environment tooling & system configs (Shell / Wayland / Hyprland).
+* **[a2aproject/a2a-java](https://github.com/a2aproject/a2a-java):** Core contributor to the official Java SDK implementation of the Agent-to-Agent protocol; strict schema validation, streaming transports, and test coverage.
+* **[OCA/server-tools](https://github.com/OCA/server-tools):** Fixed critical auditlog rule regression when tracking archived records (`active=False`) in Odoo (`OCA/server-tools#2719`).
 * **[OCA/l10n-spain](https://github.com/OCA/l10n-spain):** Enterprise Odoo Spanish localization suite (fiscal modules, AEAT SII, TicketBAI, Facturae).
+* **[omacom/omarchy](https://github.com/omacom/omarchy):** Modern Linux desktop environment tooling & system configs (Shell / Wayland / Hyprland).
 * **[ai-job-search](https://github.com/MadsLorentzen/ai-job-search):** AI job application automation framework built on Claude Code.
 
 ---
@@ -99,6 +101,7 @@
   <strong>Backend, Enterprise & Cloud</strong><br/>
   <img src="https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Webflux-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraalVM_Native-EA2D2E?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -111,7 +114,8 @@
 <p align="left">
   <strong>Databases & Persistence</strong><br/>
   <img src="https://img.shields.io/badge/SQL_Server_(T--SQL)-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector_(HNSW)-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
@@ -121,6 +125,7 @@
 <p align="left">
   <strong>Testing, DevOps & Standards</strong><br/>
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest_(230+_tests)-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -129,9 +134,9 @@
 </p>
 
 <p align="left">
-  <strong>AI, Audio & RAG</strong><br/>
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-00F0FF?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square" />
+  <strong>AI, Audio & Protocols</strong><br/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain4j-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
